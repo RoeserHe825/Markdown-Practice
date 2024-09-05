@@ -14,3 +14,6 @@ print(f'You are doing a great job on your markdown file, {first_name}!')
 ```
 
 ## About Me
+
+**I like to play basketball and hang out with friends in my free time.**
+*My brother did welding here at the career tech center.*
