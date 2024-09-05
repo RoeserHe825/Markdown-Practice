@@ -6,4 +6,4 @@
 
 [Jump to the Amazon.com homepage](https://www.amazon.com)
 
-[title](https://www.example.com)
+[Python Video for Beginners](https://www.youtube.com/watch?v=kqtD5dpn9C8)
