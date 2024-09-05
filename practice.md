@@ -2,7 +2,7 @@
 ## Henry Roeser
 ### Markdown Practice
 
-![Desert landscape in New Mexico](new_mexico.jpg)
+![Desert landscape in New Mexico](new_mxico.jpg)
 
 [Jump to the Amazon.com homepage](https://www.amazon.com)
 
