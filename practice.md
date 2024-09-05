@@ -2,4 +2,4 @@
 ## Henry Roeser
 ### Markdown Practice
 
-![alt text](image.jpg)
+![Desert landscape in New Mexico](new_mexico.jpg)
